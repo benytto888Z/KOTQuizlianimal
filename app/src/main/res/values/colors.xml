@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#A6705D</color>
+    <color name="colorIncorrect">#F20574</color>
+    <color name="colorPrimaryDark">#73473D</color>
+    <color name="colorAccent">#40160C</color>
+    <color name="colorBGAccent">#D5FDFDFD</color>
+    <color name="colorCorrect">#97D84C</color>
+    <color name="colorBgResultActivity">#6D151514</color>
+
+</resources>
